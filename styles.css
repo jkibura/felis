@@ -427,6 +427,7 @@ p {
   justify-content: center;
   /* bottom: 1rem; */
   /* transform: translateX(50%); */
+  padding: 1rem 0;
 }
 
 .imani, .footer :last-child {
@@ -436,5 +437,5 @@ p {
 }
 
 .imani {
-  padding: 0.25rem 1.8rem;
+  padding: 0.25rem 1rem;
 }
