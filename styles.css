@@ -429,8 +429,12 @@ p {
   /* transform: translateX(50%); */
 }
 
-.footer :last-child {
+.imani, .footer :last-child {
   font-size: 0.9rem;
   color: #6e7392;
   font-weight: 300;
+}
+
+.imani {
+  padding: 0.25rem 2rem;
 }
